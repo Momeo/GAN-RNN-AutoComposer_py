@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/momeo/PycharmProjects/GAN-RNN-AutoComposer/midi.module"
+all_model_checkpoint_paths: "/home/momeo/PycharmProjects/GAN-RNN-AutoComposer/midi.module"
